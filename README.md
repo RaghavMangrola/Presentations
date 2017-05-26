@@ -1,0 +1,1 @@
+This repository contains all my presentations. I use [DeckSet](https://www.decksetapp.com/) to create my slides.
